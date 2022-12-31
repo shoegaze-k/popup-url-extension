@@ -1,0 +1,17 @@
+{
+  "name": "POPUP-URL-EXTENSION",
+  "short_name": "POPUP-URL",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "複数の開発環境のURLのドメインを書き換えます。 Rewrite the domains of multiple development environment URLs.",
+  "icons": {
+    "128": "icons/icon.png"
+  },
+  "action": {
+    "default_title": "POPUP-URL",
+    "default_popup": "src/browser_action/browser_action.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
