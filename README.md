@@ -14,7 +14,7 @@ Rewrite the domains of multiple development environment URLs.
 
 ## example
 
-image
+![url-gif01](https://user-images.githubusercontent.com/117530672/210138818-4d2e8e52-70ff-46bf-9ff4-02a600c1afbc.gif)
 
 <br>
 
@@ -24,7 +24,7 @@ If the page is not applicable, URL suggestions will not be displayed.
 
 <br>
 
-image
+![url-gif02](https://user-images.githubusercontent.com/117530672/210138834-4c66d2bd-892e-4b3e-8d14-9fb57d3bce76.gif)
 
 <br>
 
